@@ -1,18 +1,16 @@
 ![Zenbit: Public Goods for cities](https://media.discordapp.net/attachments/998618862255870056/1174155682400976926/roundedbanner.png?ex=656690b1&is=65541bb1&hm=c1d09d00c67ba39afa80e5d3f95d30a9b669793379acdab1850c541b7142da53&=)
 
 
-
-
 # 👋 Welcome to zenbit.eth 👋
 We are a digital lab building public goods with Open Source Software and leveraging advanced Ethereum technologies to address cities´ challenges like transparency, efficiency, and coordination.
 
-![Vote for zenbit](https://img.shields.io/badge/Vote%20for%20zenbit.eth!-badge?style=plastic&logo=ethereum&label=OP%20RetroPGF%203&labelColor=FF0420&color=gray&link=https%3A%2F%2Fround3.optimism.io%2Fprojects%2F0x904fafc79d5a1e200399edc47fbe95e69530075f8a699866ff7ccbd3f5567cb7) 
-![Vote for zengo](https://img.shields.io/badge/Vote%20for%20zengo!-badge?style=plastic&logo=ethereum&logoColor=red&label=OP%20RetroPGF%203&labelColor=white&color=gray&link=https%3A%2F%2Fround3.optimism.io%2Fprojects%2F0x904fafc79d5a1e200399edc47fbe95e69530075f8a699866ff7ccbd3f5567cb7)
-![zenbit.eth](https://img.shields.io/badge/zenbit.eth-badge?style=plastic&logo=ethereum&labelColor=008A8A&color=008A8A&link=https%3A%2F%2Fzapper.xyz%2Fes%2Faccount%2F0xecb4c1245665e8a1f43826355aab0dd6bf336e05)
-![zenbit.lens](https://img.shields.io/badge/zenbit.lens-badge?style=plastic&logo=ethereum&labelColor=282E29&color=282E29&link=https%3A%2F%2Fwww.lensfrens.xyz%2Fzenbit)
-![discord](https://img.shields.io/badge/Zenbit%20Dev-badge?style=plastic&logo=discord&logoColor=white&labelColor=%235865F2&color=%235865F2&link=https%3A%2F%2Fdiscord.gg%2FebwAvdd8Xk)
-![x](https://img.shields.io/badge/zenbitMX-badge?style=plastic&logo=x&logoColor=white&labelColor=black&color=black&link=https%3A%2F%2Ftwitter.com%2FzenbitMX)
-![insta](https://img.shields.io/badge/zenbit.eth-badge?style=plastic&logo=instagram&logoColor=white&labelColor=%23E4405F&color=%23E4405F&link=https%3A%2F%2Fwww.instagram.com%2Fzenbit.eth%2F)
+<a href="https://round3.optimism.io/projects/0x904fafc79d5a1e200399edc47fbe95e69530075f8a699866ff7ccbd3f5567cb7"><img src="https://img.shields.io/badge/Vote%20for%20zenbit.eth!-badge?style=plastic&logo=ethereum&label=OP%20RetroPGF%203&labelColor=FF0420&color=gray&" alt="Vote for zenbit"/></a>
+<a href="https://round3.optimism.io/projects/0xa0e0d386a862f8f1ee625bf5837bfb8ef5a8201d70c459efbe9172602ff3d831"> <img src="https://img.shields.io/badge/Vote%20for%20zengo!-badge?style=plastic&logo=ethereum&logoColor=red&label=OP%20RetroPGF%203&labelColor=white&color=gray&"  alt="Vote for zengo"/></a>
+<a href="https://zapper.xyz/es/account/0xecb4c1245665e8a1f43826355aab0dd6bf336e05"> <img src="https://img.shields.io/badge/zenbit.eth-badge?style=plastic&logo=ethereum&labelColor=008A8A&color=008A8A&" alt="zenbit.eth"/></a>
+<a href="https://www.lensfrens.xyz/zenbit"> <img src="https://img.shields.io/badge/zenbit.lens-badge?style=plastic&logo=ethereum&labelColor=282E29&color=282E29&" alt="zenbit.lens"/></a>
+<a href="https://discord.gg/ebwAvdd8Xk"> <img src="https://img.shields.io/badge/Zenbit%20Dev-badge?style=plastic&logo=discord&logoColor=white&labelColor=%235865F2&color=%235865F2&" alt="discord"/></a>
+<a href="https://twitter.com/zenbitMX"> <img src="https://img.shields.io/badge/zenbitMX-badge?style=plastic&logo=x&logoColor=white&labelColor=black&color=black&" alt="x"/></a>
+<a href="https://www.instagram.com/zenbit.eth/"> <img src="https://img.shields.io/badge/zenbit.eth-badge?style=plastic&logo=instagram&logoColor=white&labelColor=%23E4405F&color=%23E4405F&" alt="insta"/></a>
 
 
 <details>
@@ -24,7 +22,7 @@ We are a digital lab building public goods with Open Source Software and leverag
 Since 2020, zenbit.eth has undertaken an extensive collaborative research and development initiative with 27 talented individuals with a diverse skill sets, from around the world. Together, they have developed over 25 public Open Source Projects, primarily at ETH Global hackathons.
 
 
-![Zenbit: Public Goods for cities](https://media.discordapp.net/attachments/998618862255870056/1171503741564887160/Zenbit_contributions_2.png?ex=65662561&is=6553b061&hm=98131a83b65e2022c63d5d79da0d6b719ec58370b3affd3a094eb1912e238fd8&=&width=1067&height=600)
+![Zenbit: Public Goods for cities](https://media.discordapp.net/attachments/998618862255870056/1174736507182010469/zengit.png?ex=6568ada0&is=655638a0&hm=f98be57e22f6348f0af5b10b08f687d63bae3c164c7133ba638f1452f75e9e7d&=&width=1066&height=600)
 
 |#| Urban Gaming                                        | Urban Governance                                                          | Defi                                                                    | Collectibles                                                | Education                                                                 | Social        |
 |-| -------------                                       | -------------                                                             | -------------                                                           | -------------                                               | -------------                                                             | ------------- |
