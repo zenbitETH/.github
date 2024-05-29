@@ -1,4 +1,4 @@
-![Zenbit: Public Goods for cities](https://media.discordapp.net/attachments/998618862255870056/1174155682400976926/roundedbanner.png?ex=656690b1&is=65541bb1&hm=c1d09d00c67ba39afa80e5d3f95d30a9b669793379acdab1850c541b7142da53&=)
+![Zenbit: Public Goods for cities](https://media.discordapp.net/attachments/998618862255870056/1174155682400976926/roundedbanner.png?ex=6657d331&is=665681b1&hm=a8189b8af0d92d10d48543dfabbe554821fd8eb6432100582efc7a04c924f422&=&format=webp&quality=lossless&width=1440&height=482)
 
 
 # 👋 Welcome to zenbit.eth 👋
@@ -22,7 +22,7 @@ We are a digital lab building public goods with Open Source Software and leverag
 Since 2020, zenbit.eth has undertaken an extensive collaborative research and development initiative with 27 talented individuals with a diverse skill sets, from around the world. Together, they have developed over 25 public Open Source Projects, primarily at ETH Global hackathons.
 
 
-![Zenbit: Public Goods for cities](https://media.discordapp.net/attachments/998618862255870056/1174736507182010469/zengit.png?ex=6568ada0&is=655638a0&hm=f98be57e22f6348f0af5b10b08f687d63bae3c164c7133ba638f1452f75e9e7d&=&width=1066&height=600)
+![Zenbit: Public Goods for cities](https://media.discordapp.net/attachments/998618862255870056/1174736507182010469/zengit.png?ex=66574d20&is=6655fba0&hm=08117430689f846dd094a4a2f7adfb7adf59ea38a34cd89cb850ad5e1a462612&=&format=webp&quality=lossless&width=1147&height=645)
 
 |#| Urban Gaming                                        | Urban Governance                                                          | Defi                                                                    | Collectibles                                                | Education                                                                 | Social        |
 |-| -------------                                       | -------------                                                             | -------------                                                           | -------------                                               | -------------                                                             | ------------- |
