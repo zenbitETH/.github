@@ -4,9 +4,8 @@
 # 👋 Welcome to zenbit.eth 👋
 We are a digital lab building public goods with Open Source Software and leveraging advanced Ethereum technologies to address cities´ challenges like transparency, efficiency, and coordination.
 
-<a href="https://round3.optimism.io/projects/0x904fafc79d5a1e200399edc47fbe95e69530075f8a699866ff7ccbd3f5567cb7"><img src="https://img.shields.io/badge/Vote%20for%20zenbit.eth!-badge?style=plastic&logo=ethereum&label=OP%20RetroPGF%203&labelColor=FF0420&color=gray&" alt="Vote for zenbit"/></a>
-<a href="https://round3.optimism.io/projects/0xa0e0d386a862f8f1ee625bf5837bfb8ef5a8201d70c459efbe9172602ff3d831"> <img src="https://img.shields.io/badge/Vote%20for%20zengo!-badge?style=plastic&logo=ethereum&logoColor=red&label=OP%20RetroPGF%203&labelColor=white&color=gray&"  alt="Vote for zengo"/></a>
-<a href="https://zapper.xyz/es/account/0xecb4c1245665e8a1f43826355aab0dd6bf336e05"> <img src="https://img.shields.io/badge/zenbit.eth-badge?style=plastic&logo=ethereum&labelColor=008A8A&color=008A8A&" alt="zenbit.eth"/></a>
+<a href="https://app.ens.domains/zenbit.eth"> <img src="https://img.shields.io/badge/zenbit.eth-badge?style=plastic&logo=ethereum&labelColor=008A8A&color=008A8A&" alt="zenbit.eth"/></a>
+<a href="https://warpcast.com/zenbit"> <img src="https://img.shields.io/badge/farcaster-badge?style=plastic&logo=farcaster&labelColor=fff&color=fff&" alt="farcaster"/></a>
 <a href="https://www.lensfrens.xyz/zenbit"> <img src="https://img.shields.io/badge/zenbit.lens-badge?style=plastic&logo=ethereum&labelColor=282E29&color=282E29&" alt="zenbit.lens"/></a>
 <a href="https://discord.gg/ebwAvdd8Xk"> <img src="https://img.shields.io/badge/Zenbit%20Dev-badge?style=plastic&logo=discord&logoColor=white&labelColor=%235865F2&color=%235865F2&" alt="discord"/></a>
 <a href="https://twitter.com/zenbitMX"> <img src="https://img.shields.io/badge/zenbitMX-badge?style=plastic&logo=x&logoColor=white&labelColor=black&color=black&" alt="x"/></a>
