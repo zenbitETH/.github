@@ -1,4 +1,4 @@
-![Zenbit: Public Goods for cities](https://media.discordapp.net/attachments/998618862255870056/1174155682400976926/roundedbanner.png?ex=6657d331&is=665681b1&hm=a8189b8af0d92d10d48543dfabbe554821fd8eb6432100582efc7a04c924f422&=&format=webp&quality=lossless&width=1440&height=482)
+![Zenbit: Public Goods for cities](https://github.com/zenbitETH/Public-Assets/blob/main/banners/zenbaner.png?raw=true)
 
 
 # 👋 Welcome to zenbit.eth 👋
